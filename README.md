@@ -1,7 +1,7 @@
 ### Welcome to my Github profile 👋
 
-[![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tpodgro/)](https://www.linkedin.com/in/tpodgro/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.tpodgro.com/)](https://www.tpodgro.com/)
+[![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tpodgro/)](https://www.linkedin.com/in/podgro/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.tomazki.com/)](https://www.tomazki.com/)
 
 HEAD OF DESIGN @ [ZOGMA](https://zog.ma/ "link to Zogma website")
 
