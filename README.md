@@ -24,9 +24,11 @@ HEAD OF DESIGN @ [ZOGMA](https://zog.ma/ "link to Zogma website")
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-- Software :
+- Design Software :
   Fusion 360, Adobe Photoshop, Adobe Illustrator, Adobe Experience Design, Adobe InDesign, Adobe After Effect
 
 - 3d Printer :
-  Creality Ender 3
-  Creality K1
+  Creality Ender 3, Creality K1
+
+- Slicer :
+  Ultimaker Cura, Creality Print
