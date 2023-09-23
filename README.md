@@ -1,6 +1,6 @@
 ### Welcome to my Github profile 👋
 
-![LOGO](https://github.com/tpodgro/tpodgro/blob/main/tomazki-cali-white.png)
+![LOGO](https://github.com/tpodgro/tpodgro/blob/main/tomazki-cali-white-small.png)
 
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tpodgro/)](https://www.linkedin.com/in/podgro/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.tomazki.com/)](https://www.tomazki.com/)
