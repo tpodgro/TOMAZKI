@@ -29,4 +29,4 @@ HEAD OF DESIGN @ [ZOGMA](https://zog.ma/ "link to Zogma website")
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tpodgro&layout=compact&theme=prussian)
 ![tpodgro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpodgro&show_icons=true&theme=prussian&count_private=true&hide=issues)
 ### Stats of the last week
-![tpodgro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliedesvaux&theme=prussian)
+![tpodgro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tpodgro&theme=prussian)
