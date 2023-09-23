@@ -25,11 +25,7 @@ HEAD OF DESIGN @ [ZOGMA](https://zog.ma/ "link to Zogma website")
   ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 - Software :
-  Fusion 360
-  Adobe Photoshop
-  Adobe Illustrator
-  Adobe XD
-  FIGMA
+  Fusion 360, Adobe Photoshop, Adobe Illustrator, Adobe Experience Design, Adobe InDesign, Adobe After Effect
 
 - 3d Printer :
   Creality Ender 3
