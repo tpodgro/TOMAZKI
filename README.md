@@ -20,15 +20,12 @@ HEAD OF DESIGN @ [ZOGMA](https://zog.ma/ "link to Zogma website")
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Sass](https://img.shields.io/badge/-Sass-CD669A?style=for-the-badge&logo=Sass&logoColor=white)
 
-- DataBase :
+- DATABASE :
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-- Design Software :
+- DESIGN :
   Fusion 360, Adobe Photoshop, Adobe Illustrator, Adobe Experience Design, Adobe InDesign, Adobe After Effect
 
-- 3d Printer :
-  Creality Ender 3, Creality K1
-
-- Slicer :
-  Ultimaker Cura, Creality Print
+- 3D PRINTING :
+  Creality Ender 3, Creality K1, Ultimaker Cura, Creality Print
